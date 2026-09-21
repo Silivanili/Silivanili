@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Silvano
 
-<!--
-**Silivanili/Silivanili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computational and Data Science student at FH Graubünden with an interest in
+data science, software engineering, DevOps and data-driven applications.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- DevOps and software delivery in the CDS212 module
+- Git and GitHub workflows
+- Linux and server administration
+- Docker and containerized applications
+- CI/CD and infrastructure automation
+
+## Technologies
+
+- Python
+- Git & GitHub
+- Linux
+- Docker
+- FastAPI
+- SQL
+- Jupyter
+
+## Current Projects
+
+- Building a DevOps project as part of CDS212
+- Developing data science and software engineering portfolio projects
+- Operating a self-hosted Linux server environment
+
+## Contact
+
+- GitHub: [@Silivanili](https://github.com/Silivanili)
